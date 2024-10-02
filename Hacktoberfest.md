@@ -65,7 +65,7 @@ For developer and technical writers submit your work via a pull request on GitHu
 
 ## Contribution Tips
 
-- Make sure to review the issue and discuss any uncertainties with maintainers before submitting.
+- Make sure to review the issue and discuss any uncertainties with maintainers before submitting..
 - Stick to one issue at a time to ensure focused contributions.
 - Be respectful and patient with maintainers—they’re volunteering their time.
 
