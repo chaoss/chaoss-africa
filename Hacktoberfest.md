@@ -27,7 +27,7 @@ As a developer, you can find open issues to improve the CHAOSS Africa repository
 ### 2. **Technical Writers**
 
 Love working with documentation? You can help us improve technical content with our
-- **Document the Scavenger Program**: 
+- **Document the Scavenger Program** 
   
 If you're passionate about explaining technical concepts clearly and concisely, this is the perfect way to contribute.
 
