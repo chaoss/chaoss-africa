@@ -22,9 +22,9 @@ As a developer, you can find open issues to improve the CHAOSS Africa repository
 - Once you find an issue that interests you, start by reading the details and engaging with maintainers if you need clarification.
 - After resolving the issue, submit a pull request following this [guidelines](https://egghead.io/lessons/javascript-how-to-create-a-pull-request-on-github).
 - To properly sign off your commits, please follow the instructions in this [guide](https://www.secondstate.io/articles/dco/)
-- You can use an @ to let a mainataner that you are done with the assigned task and it is now ready for review.
+- You can use an @ to let a mainataner that you are done with the assigned task and it is now ready for review
 
-### 2. **Technical Writers**
+### 2. **Technical Writers (WIP)**
 
 Love working with documentation? You can help us improve technical content with our
 - **Document the Scavenger Program**: 
@@ -34,25 +34,32 @@ If you're passionate about explaining technical concepts clearly and concisely, 
 ### 3. **Social Media Management**
 
 Do you have a knack for social media? This is your chance to refine those skills while promoting open source. How to get started: 
-- Make a copy of the social media content calendar 
-- Add your captions 
+- Make a copy of the social media [content calendar ](https://docs.google.com/spreadsheets/d/1oBy3BKXHOvB_JHDwCS_BGicaZ2NISbZ5DCvi1q-h4WY/edit?usp=sharing)
+- Create your captions
 - To showcase and submit your amazing contributions, use this [form](https://forms.gle/MYLzfKjfWg9huK7y5)
   
 
 ### 4. **Design and User Experience (UX)**
 
 Designers, we need your expertise! If you have experience in UI/UX design, this is how you can contribute:
-- **Create or Improve UI/UX Designs**: Think there’s a user interface that could be better? Work on wireframes, mockups, or design enhancements that will improve the user experience of the CHAOSS platform. Your ideas could shape how thousands of users interact with CHAOSS.
+- **Create or Improve UI/UX Designs**: Think there’s a user interface that could be better? 
+- Visit the [CHAOSS Africa GitHub repository](https://github.com/chaoss/chaoss-africa)
+- Look for issues tagged with the `Designers` `Hacktoberfest` or `Good First Issue` labels
+- Once you find an issue that interests you, start by reading the details and engaging with @iamkingsleey if you need clarification. Your ideas could shape how thousands of users interact with CHAOSS.
   
 ### 5. **Education**
-### 6. **Accesibility Testing**
+CHAOSS Education is an ongoing project which will be delivered through short, informative videos and interactive workshops! Here's how you can contribute:
+
+- **Create or Contribute to Video Recordings**:
+Our video library is constantly growing! Become part of the process by tackling any of these interesting [issues](https://github.com/chaoss/education/issues)
+
+
 ## How to Contribute
 
 Follow these steps to start contributing to CHAOSS Africa during Hacktoberfest:
 
 1. **Register for Hacktoberfest**  
    Sign up on the official [Hacktoberfest website](https://hacktoberfest.com) to participate.
-
 
 2. **Set Up GitHub**  
    If you don’t have a GitHub account yet, [create one](https://github.com/join). Make sure to configure Git and familiarize yourself with GitHub basics, such as forking repositories, creating pull requests, and committing changes.
@@ -74,14 +81,11 @@ For developer and technical writers submit your work via a pull request on GitHu
 - [CHAOSS Africa GitHub Repository](https://github.com/chaoss/chaoss-africa)
 - [CHAOSS Slack](https://chaoss-workspace.slack.com/archives/C07PX1J47HQ)
 - [CHAOSS Code of Conduct](https://chaoss.community/code-of-conduct/)
-- [For no Code COntributors](https://github.com/chaoss/community/blob/main/community-contributions.md)
+- [For no Code Contributors](https://github.com/chaoss/community/blob/main/community-contributions.md)
 - [Hacktoberfest Website](https://hacktoberfest.com/)
 
 ## Partnerships
-
-We are proud to collaborate with several organizations to make Hacktoberfest an even more impactful experience. Our partners include:
-
-If your organization is interested in partnering with CHAOSS Africa, please reach out to [Busayo Ojo](mailto:ojobusayo99@gmail.com).
+If your organization is interested in partnering with CHAOSS Africa during Hacktoberfest, please reach out to [Busayo Ojo](mailto:ojobusayo99@gmail.com).
 
 ---
 
