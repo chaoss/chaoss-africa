@@ -24,12 +24,11 @@ As a developer, you can find open issues to improve the CHAOSS Africa repository
 - To properly sign off your commits, please follow the instructions in this [guide](https://www.secondstate.io/articles/dco/)
 - You can use an @ to let a mainataner that you are done with the assigned task and it is now ready for review
 
-### 2. **Technical Writers (WIP)**
+### 2. **Technical Writers**
 
-Love working with documentation? You can help us improve technical content with our
-- **Document the Scavenger Program**: 
-  
-If you're passionate about explaining technical concepts clearly and concisely, this is the perfect way to contribute.
+Love working with documentation? Passionate about explaining technical concepts clearly and concisely? 
+
+Participating in our [**Document Scavenger Program**](./DocScavanger.md) is the perfect way for you to contribute.
 
 ### 3. **Social Media Management**
 
