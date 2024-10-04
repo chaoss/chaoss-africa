@@ -20,7 +20,7 @@ As a developer, you can find open issues to improve the CHAOSS Africa repository
 - Visit the [CHAOSS Africa GitHub repository](https://github.com/chaoss/chaoss-africa).
 - Look for issues tagged with the `Hacktoberfest` or `Good First Issue` labels.
 - Once you find an issue that interests you, start by reading the details and engaging with maintainers if you need clarification.
-- After resolving the issue, submit a pull request following this [guidelines](https://egghead.io/lessons/javascript-how-to-create-a-pull-request-on-github).
+- After resolving the issue, submit a pull request following this [guidelines](https://opensource.com/article/19/7/create-pull-request-github).
 - To properly sign off your commits, please follow the instructions in this [guide](https://www.secondstate.io/articles/dco/)
 - You can use an @ to let a mainataner that you are done with the assigned task and it is now ready for review
 
