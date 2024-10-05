@@ -25,7 +25,7 @@ As a developer, you can find open issues to improve the CHAOSS Africa repository
 *   To properly sign off your commits, please follow the instructions in this [guide](https://www.secondstate.io/articles/dco/)
 *   You can use an @ to let a mainataner that you are done with the assigned task and it is now ready for review.
 
-If you need further help, get in touch with @adeyinkaoresanya
+If you need further help, get in touch with [adeyinkaoresanya](@adeyinkaoresanya)
 
 ### 2. **Technical Writers**
 
@@ -33,7 +33,7 @@ Love working with documentation? Passionate about explaining technical concepts 
 
 Participating in our [**Document Scavenger Program**](./DocScavanger.md) is the perfect way for you to contribute.
 
-If you need further help, get in touch with @harmonyelendu
+If you need further help, get in touch with [harmonyelendu](@harmonyelendu)
 
 ### 3. **Social Media Management**
 
@@ -52,9 +52,7 @@ Designers, we need your expertise! If you have experience in UI/UX design, this 
 *   **Create or Improve UI/UX Designs**: Think there’s a user interface that could be better?
 *   Visit the [CHAOSS Africa GitHub repository](https://github.com/chaoss/chaoss-africa)
 *   Look for issues tagged with the `Designers` `Hacktoberfest` or `Good First Issue` labels
-*   Once you find an issue that interests you, start by reading the details and engaging with @iamkingsleey if you need clarification. Your ideas could shape how thousands of users interact with CHAOSS.
-
-If you need further help, get in touch with @iamkingsleey
+*   Once you find an issue that interests you, start by reading the details and engaging with [iamkingsleey](@iamkingsleey) if you need clarification. Your ideas could shape how thousands of users interact with CHAOSS.
 
 ### 5. **Education**
 
@@ -63,7 +61,7 @@ CHAOSS Education is an ongoing project which will be delivered through short, in
 *   **Create or Contribute to Video Recordings**:
     Our video library is constantly growing! Become part of the process by tackling any of these interesting [issues](https://github.com/chaoss/education/issues)
 
-If you need further help, get in touch with @peculiaruc
+If you need further help, get in touch with [peculiaruc](@peculiaruc)
 
 ## How to Contribute
 
