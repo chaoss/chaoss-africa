@@ -15,7 +15,7 @@ We have focus groups for different tech skillsets:
 
 - Developers Focus Group
 - Designers Focus Group
-- Community Managers Focus Gropup
+- Community Managers Focus Group
 - Research/Data Analysts Focus Group
 - Technical Writers Focus Group
 
