@@ -41,4 +41,3 @@ The following resources has been provided just for you!
 - [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
 - [Technical Writing A to Z](https://www.freecodecamp.org/news/technical-writing-for-beginners/)
 - [Technical Article Guideline Template](https://github.com/iamfortune/Technical-Article-Guideline-Template) 
-
