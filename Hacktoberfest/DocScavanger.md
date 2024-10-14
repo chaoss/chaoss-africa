@@ -36,8 +36,8 @@ There are no specific requirements that qualify you to participate, but the foll
 
 **Submission Gudielines** \
 The following guidelines has been curated to enable your submission process 
-- Indicate interest on a particular issue with your timeline 
-- Once assigned you can kick off 
+- Indicate interest on a particular issue with a comment 
+- Once it's assigned you can kick off 
 - Present a link to your work in the comment section then tag a reviewer to go through (be sure to add your name in your file for credits to be given in case of article or blog wiritng)  
 - Once approved, create a pull request or close issue. 
 
@@ -47,6 +47,7 @@ To get support or a review on your submissions, do well to tag any of the follow
 - [Busayo Ojo](https://github.com/busayo-ojo) 
 - [Gift Uhiene](https://github.com/giftea) 
 - [Precious Abubakar](https://github.com/misspee007) 
+- [Sophia Ugochukwu](https://github.com/sophiaugo)
 
 **Tools and Applications** 
 - Zoom: For the Virtual workshop hosting
