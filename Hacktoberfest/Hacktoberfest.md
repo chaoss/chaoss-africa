@@ -69,7 +69,7 @@ If you're a project manager, here's how you can contribute:
 
 * Look through this [spreadsheeet](https://docs.google.com/spreadsheets/d/1CbsVl8uFsxdSz57khz9wlgW_o2uZN_oOkA_w1dGT-v8) to find projects and teams that need project managers:
 * Task Coordination: Assist in organizing and assigning tasks for contributors, making sure issues are clear and manageable.
-* Read this documentation for further [hacktoberfest guidelines] (https://docs.google.com/document/d/19lcrQtAHMtzi_pJCuG1YPvky3VG_p8tNVCyPBhqDazM)
+* Read this documentation for further [hacktoberfest guidelines](https://docs.google.com/document/d/1OSiz_7aSen-2G5JSjHNWRxpLyXk3VcXBajg9x4MFd5k)
 
 If you need further help, get in touch with [Yiga](@yigakpoa)
 
