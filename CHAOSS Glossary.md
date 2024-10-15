@@ -2,13 +2,13 @@
 The Dictionary to everything with an acronym here in [CHAOSS](https://chaoss.community/) 
 
 # The Glossary
-we understand the struggle in reading and understaning everything from a holitic point of view. Here are some of the Acronym you might come across: 
+We understand the struggle in reading and understaning everything from a holitic point of view. Here are some of the Acronym you might come across as a contributor: 
 
 - CHAOSS: Community Health Analytics in Open Source Software
 - MD: Mark Down 
 - OSS: Open Source Software 
 - PR: Pull Request 
-- FG: Focus Group 
+- FG: Focus Group d
 - SDG: Sustainable Development Goals 
 - WG: Working Group 
 - DEI: Diversity Equity Inclusion ex: DEI Badging
