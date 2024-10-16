@@ -11,7 +11,7 @@ We understand the struggle in reading and understanding everything from a holist
 - FG: Focus Group 
 - SDG: Sustainable Development Goals 
 - WG: Working Group 
-- DEI: Diversity Equity Inclusion ex: DEI Badging
+- DEI: Diversity, Equity, and Inclusion e.g., DEI Badging
 - UN: United Nations 
 - FOSS|FLOSS: Free Open Source Software 
 - LFx: Linux Foundation
@@ -20,12 +20,12 @@ We understand the struggle in reading and understanding everything from a holist
 - MIT: Massachusetts Institute of Technology
 - CI/CD: Continuous Integration/Continuous Deployment
 - API: Application Programming Interface
-- MD.File: Markdown File. ex Contributor.md
+- MD.File: Markdown File e.g., Contributor.md
 - FOSDEM: Free and Open Source Software Developers' European Meeting
 - OSCA: Open Source Community Africa
 - Repo: Repository
-- *CON: Conference ex: CHAOSScon
+- *CON: Conference e.g., CHAOSScon
 - CHAOSScast: CHAOSS Podcast 
-- HacktoberFest: A month-long celebration of open-source projects, their maintainers, and the entire community of contributors usually done in October. 
+- Hacktoberfest: A month-long celebration of open-source projects, their maintainers, and the entire community of contributors usually done in October. 
 - Pycon: Python Conference 
  
