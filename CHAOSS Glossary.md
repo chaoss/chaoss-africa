@@ -21,7 +21,7 @@ We understand the struggle in reading and understanding everything from a holist
 - CI/CD: Continuous Integration/Continuous Deployment
 - API: Application Programming Interface
 - MD.File: Markdown File e.g., Contributor.md
-- FOSDEM: Free and Open Source Software Developers' European Meeting
+- FOSDEM: Free and Open source Software Developers' European Meeting
 - OSCA: Open Source Community Africa
 - Repo: Repository
 - *CON: Conference e.g., CHAOSScon
