@@ -2,31 +2,30 @@
 The Dictionary to everything with an acronym here in [CHAOSS](https://chaoss.community/) 
 
 # The Glossary
-We understand the struggle in reading and understaning everything from a holitic point of view. Here are some of the Acronym you might come across as a contributor: 
+We understand the struggle in reading and understanding everything from a holistic point of view. Here are some of the Acronyms you might come across as a contributor: 
 
 - CHAOSS: Community Health Analytics in Open Source Software
-- MD: Mark Down 
+- MD: Markdown 
 - OSS: Open Source Software 
 - PR: Pull Request 
-- FG: Focus Group d
+- FG: Focus Group 
 - SDG: Sustainable Development Goals 
 - WG: Working Group 
-- DEI: Diversity Equity Inclusion ex: DEI Badging
+- DEI: Diversity, Equity, and Inclusion e.g., DEI Badging
 - UN: United Nations 
 - FOSS|FLOSS: Free Open Source Software 
-- LFx: Linus Foundation
+- LFx: Linux Foundation
 - OSI: Open Source Initiative 
 - OSOSS: Open Standards and Open Source Software
-- MIT; Massachusetts Institute of Technology
+- MIT: Massachusetts Institute of Technology
 - CI/CD: Continuous Integration/Continuous Deployment
 - API: Application Programming Interface
-- MD.File: Markdown File. ex Contributor.md
-- FOSSDEM: Free and Open source Software Developers' European
-- OSCAR: Open Source Community africa
+- MD.File: Markdown File e.g., Contributor.md
+- FOSDEM: Free and Open source Software Developers' European Meeting
+- OSCA: Open Source Community Africa
 - Repo: Repository
-- *CON: Conference ex: CHAOSScon
+- *CON: Conference e.g., CHAOSScon
 - CHAOSScast: CHAOSS Podcast 
-- HacktoberFest: A month-long celebration of open-source projects, their maintainers, and the entire community of contributors usually done in October. 
+- Hacktoberfest: A month-long celebration of open-source projects, their maintainers, and the entire community of contributors usually done in October. 
 - Pycon: Python Conference 
-- 
  
