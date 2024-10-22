@@ -32,16 +32,16 @@ There are no specific requirements that qualify you to participate, but the foll
 - Spot and Create issues within documents
 - Fix Created issues and create PR’s  with a minimum goal of 2 (Quality > Quantity)
 - Create and Write articles related to Open Source and CHAOSS Projects ( Examples: Tools Onboarding Docs, Feature and Tool Highlight etc) 
-- Share, Comments and Support Posts that involves Doc Scavenger
+- Share, Comment, and Support Posts that involve Doc Scavenger
 
 **Submission Gudielines** \
 The following guidelines has been curated to enable your submission process 
 - Indicate interest on a particular issue with a comment 
-- Once it's assigned you can kick off 
+- Once it's assigned, you can kick off
 - Present a link to your work in the comment section then tag a reviewer to go through (be sure to add your name in your file for credits to be given in case of article or blog wiritng)  
 - Once approved, create a pull request or close issue. 
 
-**Support | Reviewer's** \
+**Support | Reviewers** \
 To get support or a review on your submissions, do well to tag any of the following Github Handles in the comments
 - [Harmony Elendu](https://github.com/harmonyelendu) 
 - [Busayo Ojo](https://github.com/busayo-ojo) 
@@ -51,11 +51,11 @@ To get support or a review on your submissions, do well to tag any of the follow
 
 **Tools and Applications** 
 - Zoom: For the Virtual workshop hosting
-- Slack: Communication Center and conversation
+- Slack: Communication Center for conversation
 - Github: Contributions, Issue creations and tracking
 
 **Technical Resources** \
-The following resources has been provided just for you!
+The following resources have been provided just for you!
 - [The Pocket Technical Writing List](https://github.com/rubymorillo/pocket-tech-writing-list)
 - [Getting Started With Markdown](https://www.markdownguide.org/getting-started/)
 - [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
