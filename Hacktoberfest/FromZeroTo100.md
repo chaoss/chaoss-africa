@@ -41,7 +41,7 @@ Anyone looking to start contributing to open source projects through non-code co
 | Building docs with a static site generator | Wisdom Nwokocha | Breakout session | 30 mins |
 |Intro to Open Source Documentation Standards | Shaun McCance | Breakout session  |30 mins  |
 | The Role of Storytelling in Technical Writing | Linda Ikechukwu | Talk | 20 mins |
-| Closing Reamrks |  |  | 10 mins |
+| Closing Remarks |  |  | 10 mins |
 </br>
 
 ### Code of Conduct
