@@ -4,7 +4,7 @@ The technical writers group at CHAOSS is pleased to introduce its plans for this
 
 This training is part of Hacktoberfest celebrations — a time where contributors across the globe come together to celebrate open source.
 
-From Zero to 100: A Technical Writing and Open Source Documentation Training is a 3-hour interactive training designed to introduce participants to the world of technical writing and open source documentation. Expect a blend of talks, best practices, and hands-on breakout sessions to help you be a confident technical writer and contributor to open source projects.
+From Zero to 100: A Technical Writing and Open Source Documentation Training is a 4-hour interactive training designed to introduce participants to the world of technical writing and open source documentation. Expect a blend of talks, best practices, and hands-on breakout sessions to help you be a confident technical writer and contributor to open source projects.
 
 ### Program Details
 
