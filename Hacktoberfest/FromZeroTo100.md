@@ -43,7 +43,7 @@ Anyone looking to start contributing to open source projects through non-code co
 | Break! | Break! |Break! | Break!|2:40pm - 2:55pm|
 | Peace Sandy | 30 mins |Building Better Docs: A Practical Approach to Software Documentation| Breakout|2:55pm - 3:25pm|
 | Wisdom Nwokocha | 30 mins |Building docs with a static site generator | Breakout|2:55pm - 3:25pm|
-| Maryblessing Okolie | 30 mins |How to write for Non-Technical Users | Breakout|2:55pm - 3:25pm|
+| Maryblessing Okolie | 30 mins |Before you Contribute: What every Contributor should check in Project Documentation| Breakout|2:55pm - 3:25pm|
 | Tabah Baridule | 30 mins |Building Easy-to-Use API Docs using Postman | Breakout|2:55pm - 3:25pm|
 | Buffer! | Buffer! |Buffer! | Buffer!|3:25pm - 3:30pm|
 | Shaun McCance | 25 mins |Open the Docs: Writing in Open Source Communities| Talk|3:30pm - 3:55pm|
