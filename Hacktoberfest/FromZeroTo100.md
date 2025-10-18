@@ -36,7 +36,7 @@ Anyone looking to start contributing to open source projects through non-code co
 |Speaker name|Duration|Session title|Session Format|Time slot|
 |----------|----------|----------|----------|----------|
 | Peculiar Umeh| 10 mins |Introduction to CHAOSS | Talk| 1:05pm - 1:15pm|
-| Funke Olasupo | 20 mins |Introduction to Technical Writing | Talk|1:15pm - 1:35pm|
+| Mankinde Mercy | 20 mins |Introduction to Technical Writing | Talk|1:15pm - 1:35pm|
 | Fortune Ikechi | 20 mins |How to write for Non-Technical Users | Talk|1:35pm - 1:55pm|
 | Prince Onyeanuna| 20 mins |How to choose the perfect documentation for your software product| Talk|1:55pm - 2:15pm|
 | Anita Ihuman | 25 mins |Beyond the Docs: Building a Career in Tech Through Technical Writing | Talk|2:15pm - 2:40pm|
@@ -66,7 +66,7 @@ For questions, reach out via issues on this repo or Slack to any of the people b
 </br>
 
 Moturayo (@ motunrayo adeneye) </br>
-Harmony (@ harmonyelendu) </br>
+Harmony (@harmonyelendu) </br>
 Maryblessing (@ maryblessing)
 </br></br>
 
