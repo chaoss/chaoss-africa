@@ -17,7 +17,7 @@ From Zero to 100: A Technical Writing and Open Source Documentation Training is 
   Registration link: https://forms.gle/F5T3pwMxEUMgCGrL6 
   </br></br>
 
-### Who should attend?
+### Who attended?
 
 Beginners curious about open source and technical writing
 Writers, designers, or developers interested in documentation
@@ -59,15 +59,20 @@ This program is governed by the CHAOSS Project [code of conduct](https://chaoss.
 ### Program Resources
 We’ll update resources like slides or exercises from speakers here.
 </br></br>
+Here is a list of speakers slides: 
+1. [Power Slide](https://docs.google.com/presentation/d/1viCJqLJN4Yzqe7RxbyTeLly7ariFBOHIEiyKHtot4xM/edit?usp=sharing)
+2. Makinde Mercy - [Intrduction to Technical Writing](https://gamma.app/docs/Introduction-to-Technical-Writing-ct9ud1ngdf1quvv)
+3. Linkda Ikechukwu - [Story Telling in Technical Communication](https://www.canva.com/design/DAG0fnA1h4A/mHsVKsVVZJp4y4fKgYQ_dg/edit?utm_content=DAG0fnA1h4A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+4. Anita Ihuman - [Beyond the docs: Building a career in tech through Technical Writing](https://www.canva.com/design/DAG2IjJJUQ4/suBVbUfSQN9u6tS5RtXJ2w/edit?utm_content=DAG2IjJJUQ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
   
 ### Support & Contact
 For questions, reach out via issues on this repo or Slack to any of the people below
 </br>
 
-Moturayo (@ motunrayo adeneye) </br>
-Harmony (@harmonyelendu) </br>
-Maryblessing (@ maryblessing)
+Moturayo (@motunrayo adeneye) </br>
+[Harmony](https://github.com/harmonyelendu/) </br>
+[Maryblessing](https://github.com/maryblessing)
 </br></br>
 
 ### Annex
