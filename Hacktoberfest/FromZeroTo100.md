@@ -64,6 +64,9 @@ Here is a list of speakers slides:
 2. Makinde Mercy - [Intrduction to Technical Writing](https://gamma.app/docs/Introduction-to-Technical-Writing-ct9ud1ngdf1quvv)
 3. Linkda Ikechukwu - [Story Telling in Technical Communication](https://www.canva.com/design/DAG0fnA1h4A/mHsVKsVVZJp4y4fKgYQ_dg/edit?utm_content=DAG0fnA1h4A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 4. Anita Ihuman - [Beyond the docs: Building a career in tech through Technical Writing](https://www.canva.com/design/DAG2IjJJUQ4/suBVbUfSQN9u6tS5RtXJ2w/edit?utm_content=DAG2IjJJUQ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+5. Prince Onyeanuna - [How to choose the perfect Documentation for your software product](https://docs.google.com/presentation/d/1_ovK0CsCoU0V7AU8yFg469vZbeW3zJ13n9wrM9Hmfg4/edit?usp=sharing)
+6.  Okolie Blessing - [Before you contribute: What every contributor should check in project management](https://www.canva.com/design/DAG15nNuav0/adiAJj8PM17tF56cuaYW1w/edit?utm_content=DAG15nNuav0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+7.  Wisdom Nwokocha - [Building Docs with SSGs](https://drive.google.com/file/d/1ukKZl4Nqy5gJo4i8NkiHfsi8zpNK_2VA/view?usp=drivesdk)
 
   
 ### Support & Contact
