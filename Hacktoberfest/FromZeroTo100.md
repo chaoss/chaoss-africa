@@ -73,7 +73,7 @@ Here is a list of speakers slides:
 For questions, reach out via issues on this repo or Slack to any of the people below
 </br>
 
-Moturayo (@motunrayo adeneye) </br>
+[Moturayo](https://github.com/motuncoded) </br>
 [Harmony](https://github.com/harmonyelendu/) </br>
 [Maryblessing](https://github.com/maryblessing)
 </br></br>
