@@ -68,6 +68,8 @@ Here is a list of speakers slides:
 6.  Okolie Blessing - [Before you contribute: What every contributor should check in project management](https://www.canva.com/design/DAG15nNuav0/adiAJj8PM17tF56cuaYW1w/edit?utm_content=DAG15nNuav0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 7.  Wisdom Nwokocha - [Building Docs with SSGs](https://drive.google.com/file/d/1ukKZl4Nqy5gJo4i8NkiHfsi8zpNK_2VA/view?usp=drivesdk)
 
+### [Program Report](https://docs.google.com/presentation/d/1pOAiv18v7-lfCgn6x4-8dMS6lXbL6GbTdD6rn-9x708/edit?usp=sharing)
+
   
 ### Support & Contact
 For questions, reach out via issues on this repo or Slack to any of the people below
