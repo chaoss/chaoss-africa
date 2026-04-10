@@ -4,7 +4,7 @@
 
 This community aims to empower people to become integrated into the CHAOSS project, contribute in meaningful ways to them and the project, and help build a solid CHAOSS global community.
 
-## What does the community focuses on?
+## What does the community focus on?
 
 - Discover the unique challenges of OSS Communities in Africa and create initiatives around them.
 - Work on CHAOSS Software projects, documentation, metrics, and design.
